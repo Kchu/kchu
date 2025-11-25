@@ -7,4 +7,4 @@
  - 🌱 Check out some of my recent publications & implementation below :)
 
 
-![xf-zhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchu&show_icons=true&theme=vue-dark)
+![Kun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchu&show_icons=true&theme=vue-dark)
